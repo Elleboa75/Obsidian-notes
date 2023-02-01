@@ -1,5 +1,5 @@
 22092709:39
-Status:  #LanguageAndSpeech #CogPsy 
+Status:  [[LanguageAndSpeech]] [[CogPsy]] 
 Tags: 
 
 # The McGurk effect

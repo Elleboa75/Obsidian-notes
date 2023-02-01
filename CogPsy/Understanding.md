@@ -1,5 +1,5 @@
 22031212:47
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags:
 
 # Understanding

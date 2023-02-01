@@ -1,5 +1,5 @@
 22031413:29
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]]
 
 # DRM procedure

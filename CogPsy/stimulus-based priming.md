@@ -1,5 +1,5 @@
 22031110:06
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Attention]]
 
 # stimulus-based priming

@@ -1,5 +1,5 @@
 22032113:40
-Status:  #CogPsy  #GenLing 
+Status:  [[CogPsy]]  [[GenLing]] 
 Tags: 
 
 # Syntax

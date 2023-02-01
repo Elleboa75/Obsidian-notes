@@ -1,5 +1,5 @@
 22091411:33
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # pnorm(x, mean, sd)

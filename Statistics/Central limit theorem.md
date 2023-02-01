@@ -1,5 +1,5 @@
 22091910:28
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # Central limit theorem

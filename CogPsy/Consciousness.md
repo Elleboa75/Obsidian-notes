@@ -1,5 +1,5 @@
 22040609:43
-Status: #MOC
+Status: [[MOC]]
 Tags:
 
 # Consciousness

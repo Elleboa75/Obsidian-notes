@@ -1,5 +1,5 @@
 22032114:21
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Linguistic relativity

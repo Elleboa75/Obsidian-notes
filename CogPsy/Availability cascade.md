@@ -1,5 +1,5 @@
 22031512:20
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Availability heuristics]] 
 
 # Availability cascade

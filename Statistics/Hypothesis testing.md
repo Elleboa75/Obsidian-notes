@@ -1,5 +1,5 @@
 22091909:07
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # Hypothesis testing

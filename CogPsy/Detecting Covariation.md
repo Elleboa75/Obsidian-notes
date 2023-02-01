@@ -1,5 +1,5 @@
 22031415:43
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Concepts and generic knowledge]] 
 
 # Detecting Covariation

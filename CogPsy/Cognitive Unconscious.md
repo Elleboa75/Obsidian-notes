@@ -1,5 +1,5 @@
 22040609:44
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Cognitive Unconscious

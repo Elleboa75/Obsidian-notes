@@ -1,5 +1,5 @@
 22031415:08
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags:  [[Concepts and generic knowledge]]
 
 # Anchoring effect

@@ -1,5 +1,5 @@
 22031615:14
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Typicality vs Attractiveness

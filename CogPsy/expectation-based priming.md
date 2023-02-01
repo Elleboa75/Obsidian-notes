@@ -1,5 +1,5 @@
 22031110:09
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags:  [[Attention]]
 
 # expectation-based priming

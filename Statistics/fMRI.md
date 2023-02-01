@@ -1,5 +1,5 @@
 22051010:07
-Status:  #IntroToBrain
+Status:  [[IntroToBrain]]
 Tags: 
 
 # fMRI

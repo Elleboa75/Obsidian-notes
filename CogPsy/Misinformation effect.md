@@ -1,5 +1,5 @@
 22031214:48
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]] 
 
 # Misinformation effect

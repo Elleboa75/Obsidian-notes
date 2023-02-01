@@ -1,5 +1,5 @@
 22031023:04
-Status / subject:  #CogPsy
+Status / subject:  [[CogPsy]]
 Tags: [[Attention]]
 
 # Change blindness

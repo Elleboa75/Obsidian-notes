@@ -1,5 +1,5 @@
 22091217:29
-Status:  #LanguageAndSpeech
+Status:  [[LanguageAndSpeech]]
 Tags: 
 
 # Nyquist frequency

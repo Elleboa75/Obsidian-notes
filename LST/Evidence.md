@@ -1,5 +1,5 @@
 22101813:00
-Status:  #LanguageAndSpeech
+Status:  [[LanguageAndSpeech]]
 Tags: 
 
 ---
@@ -28,8 +28,8 @@ There are **evidential rules** and **causal rules**
 - Connect elements in a story
 
 ## Local and global coherence
-- **local coherence** is determined by the <mark style="background: #ABF7F7A6;">causal rules</mark> connecting its events
-- **global coherence** is determined by the <mark style="background: #ABF7F7A6;">story schemes</mark> it matches
+- **local coherence** is determined by the <mark style="background: [[ABF7F7A6]];">causal rules</mark> connecting its events
+- **global coherence** is determined by the <mark style="background: [[ABF7F7A6]];">story schemes</mark> it matches
 
 # Probabilistic analysis of evidence
 Some type of evidence such as DNA can give a probability given by **profile frequency** 

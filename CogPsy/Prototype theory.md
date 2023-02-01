@@ -1,5 +1,5 @@
 22031611:19
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Prototype theory

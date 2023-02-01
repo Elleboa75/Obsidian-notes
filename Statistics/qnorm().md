@@ -1,5 +1,5 @@
 22091411:34
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # qnorm(p, mean, sd)

@@ -1,5 +1,5 @@
 22031414:32
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]] 
 
 # Autobiographical memory

@@ -1,5 +1,5 @@
 22031415:14
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Concepts and generic knowledge]]] 
 
 # Four-card task

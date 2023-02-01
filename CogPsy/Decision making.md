@@ -1,5 +1,5 @@
 22032312:41
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Decision making

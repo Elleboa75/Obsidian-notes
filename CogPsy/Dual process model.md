@@ -1,5 +1,5 @@
 22032312:09
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Thinking, fast and slow]] 
 
 # Dual process model

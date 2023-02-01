@@ -1,5 +1,5 @@
 22031022:45
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Brain structure

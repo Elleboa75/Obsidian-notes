@@ -1,5 +1,5 @@
 22032311:02
-Status: #MOC
+Status: [[MOC]]
 Tags:
 
 # Judgement & Reasoning

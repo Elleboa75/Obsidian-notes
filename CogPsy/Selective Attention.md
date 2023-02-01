@@ -1,5 +1,5 @@
 22031022:57
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Attention]]
 
 # Selective attention

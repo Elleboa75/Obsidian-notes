@@ -1,5 +1,5 @@
 22031512:03
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Thinking, fast and slow]] 
 
 # Availability heuristics

@@ -1,5 +1,5 @@
 22031612:12
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Visual Knowledge]] 
 
 # Visual imagery

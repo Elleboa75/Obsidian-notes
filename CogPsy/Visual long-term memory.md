@@ -1,5 +1,5 @@
 22031612:36
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Visual long-term memory

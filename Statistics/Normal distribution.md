@@ -1,5 +1,5 @@
 22091411:27
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # Normal distribution

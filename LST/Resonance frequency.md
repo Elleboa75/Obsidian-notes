@@ -1,5 +1,5 @@
 22091613:31
-Status:  #LanguageAndSpeech
+Status:  [[LanguageAndSpeech]]
 Tags: 
 
 # Resonance frequency

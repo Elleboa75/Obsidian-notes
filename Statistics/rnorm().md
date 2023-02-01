@@ -1,5 +1,5 @@
 22091411:36
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # rnorm(n, mean, sd)

@@ -1,5 +1,5 @@
 22031212:39
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]]
 
 # Retrieval paths

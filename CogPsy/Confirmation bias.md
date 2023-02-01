@@ -1,5 +1,5 @@
 22032312:25
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Confirmation bias

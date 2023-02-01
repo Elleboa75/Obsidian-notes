@@ -1,5 +1,5 @@
 22031512:09
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Availability heuristics]]
 
 # Ease of retrieval as information

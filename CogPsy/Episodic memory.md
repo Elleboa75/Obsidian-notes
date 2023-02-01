@@ -1,5 +1,5 @@
 22031413:06
-Status: #MOC  #CogPsy 
+Status: [[MOC]]  [[CogPsy]] 
 Tags: 
 
 # Episodic memory

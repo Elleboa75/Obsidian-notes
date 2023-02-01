@@ -1,5 +1,5 @@
 22031022:55
-Status: #MOC  #CogPsy 
+Status: [[MOC]]  [[CogPsy]] 
 Tags: 
 
 # Attention

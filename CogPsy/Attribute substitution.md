@@ -1,5 +1,5 @@
 22032311:07
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Attribute substitution

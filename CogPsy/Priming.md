@@ -1,5 +1,5 @@
 22031023:11
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Attention]]
 
 # Priming

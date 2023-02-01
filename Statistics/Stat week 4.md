@@ -1,5 +1,5 @@
 22092608:58
-Status:  #Statistics
+Status:  [[Statistics]]
 Tags: 
 
 # Stat week 4

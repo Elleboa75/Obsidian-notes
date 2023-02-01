@@ -1,5 +1,5 @@
 22101809:05
-Status:  #LanguageAndSpeech
+Status:  [[LanguageAndSpeech]]
 Tags: 
 
 ---
@@ -38,7 +38,7 @@ Tags:
 
 ## Week 5
 [[Distributional properties of language and corpora]]
-- Read chapter 2 of Jurafsky's book on RegEx <mark style="background: #FFF3A3A6;">*carefully*</mark>
+- Read chapter 2 of Jurafsky's book on RegEx <mark style="background: [[FFF3A3A6]];">*carefully*</mark>
 - Learn the basic regEx syntax 
 - Lestrade, Zipf's law - unzipping zipf's law. Read once
 - 
@@ -46,7 +46,7 @@ Tags:
 ## Week 6
 [[lexical semantics]]
 Chapter 6 is important, but do not learn the formulas
-- <mark style="background: #BBFABBA6;">lecturer's favourite</mark>
+- <mark style="background: [[BBFABBA6]];">lecturer's favourite</mark>
 - skipgrams? concept
 - Visualising and embedding will not be asked too much
 - Fellbaum paper read once

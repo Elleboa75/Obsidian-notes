@@ -1,5 +1,5 @@
 22031413:13
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]] 
 
 # Memory errors

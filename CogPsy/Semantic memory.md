@@ -1,5 +1,5 @@
 22031611:09
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags:  [[Concepts and generic knowledge]]
 
 # Semantic memory

@@ -1,5 +1,5 @@
 22031415:36
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Concepts and generic knowledge]]  [[Decision making]]
 
 # Maximising Utility vs Seeing Reasons

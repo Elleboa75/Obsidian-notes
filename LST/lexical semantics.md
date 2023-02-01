@@ -1,5 +1,5 @@
 22101109:08
-Status:  #LanguageAndSpeech
+Status:  [[LanguageAndSpeech]]
 Tags: 
 
 # Lexical semantics - word meaning
@@ -52,7 +52,7 @@ The goal of lexical semantics is to recreate human understanding and interferenc
 - Adverbial modifies the sentiment: Sometime I really hate ... 
 - Possible sarcasm: The weather is sooo goood!
 - Dealing with brand names; identifying target of attitude is difficult
-- Negative term used in a positive sense in certain domains: The movie is surprising with plenty of <mark style="background: #FFB8EBA6;">unsettling</mark> plot twists
+- Negative term used in a positive sense in certain domains: The movie is surprising with plenty of <mark style="background: [[FFB8EBA6]];">unsettling</mark> plot twists
 - Qualified positive sentiment, difficult to categorise: I love my mobile but would not recommend it to any of my colleagues 
 
 ## SentiWordNet

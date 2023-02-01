@@ -1,5 +1,5 @@
 22032311:18
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Representativeness heuristics

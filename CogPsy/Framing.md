@@ -1,5 +1,5 @@
 22031415:28
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Concepts and generic knowledge]] [[Decision making]]
 
 # Framing

@@ -1,5 +1,5 @@
 22032311:37
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Illusion of Covariance

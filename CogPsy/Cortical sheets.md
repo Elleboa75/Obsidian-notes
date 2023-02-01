@@ -1,5 +1,5 @@
 22041909:22
-Status:  #IntroToBrain
+Status:  [[IntroToBrain]]
 Tags: [[Nerve cells and nerve impulses]]
 
 # Cortical sheets

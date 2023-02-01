@@ -1,5 +1,5 @@
 22032312:34
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Deduction

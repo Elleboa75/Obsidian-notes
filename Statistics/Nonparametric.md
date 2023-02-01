@@ -7,4 +7,4 @@ Data could be non-parametric for many reasons, such as:
 -   Data is real-valued but *does not fit a well understood shape*.
 -   Data is almost parametric but *contains outliers*, multiple peaks, a shift, or some other feature.
 
-#Statistics 
+[[Statistics]] 

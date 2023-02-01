@@ -1,5 +1,5 @@
 22032814:17
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Functional Fixedness

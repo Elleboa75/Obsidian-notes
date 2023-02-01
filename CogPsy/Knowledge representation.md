@@ -1,5 +1,5 @@
 22031612:07
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Concepts and generic knowledge]] 
 
 # Knowledge representation

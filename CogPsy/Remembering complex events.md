@@ -1,5 +1,5 @@
 22031212:30
-Status: #MOC #CogPsy 
+Status: [[MOC]] [[CogPsy]] 
 Tags:
 # Remembering complex events
 Chapter 8

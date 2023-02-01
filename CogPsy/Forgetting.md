@@ -1,5 +1,5 @@
 22031315:35
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]] 
 
 # Forgetting

@@ -1,5 +1,5 @@
 22092014:19
-Status:  #KAT
+Status:  [[KAT]]
 Tags: 
 
 # Responsible vs Symbolic AI

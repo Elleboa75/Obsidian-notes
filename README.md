@@ -9,7 +9,7 @@ Because the notes are saved as markdown files, they can be viewed in GitHub. How
 ## Obsidian
 The notes were originally created in [Obsidian](https://obsidian.md), and it is the recommended software for working with the repository. 
 ### Style and plug-ins
-The notes do not use any necessary plug-ins. However, they were created with [Minimal theme](https://minimal.guide/Home) with **bold** and *italics* text being coloured to make them stand out more. These colours may be essential for full appreciation of the notes that use them to highlight important parts and definitions. If you want to actually highlight text, there are multiple ways of doing that with a simple highlight using ==double spaces==, or <mark style="background: #ABF7F7A6;">Highlights Plug-in</mark> being two of them. 
+The notes do not use any necessary plug-ins. However, they were created with [Minimal theme](https://minimal.guide/Home) with **bold** and *italics* text being coloured to make them stand out more. These colours may be essential for full appreciation of the notes that use them to highlight important parts and definitions. If you want to actually highlight text, there are multiple ways of doing that with a simple highlight using ==double spaces==, or <mark style="background: [[ABF7F7A6]];">Highlights Plug-in</mark> being two of them. 
 ## Modifying the repository
 You can fork the project and download it inside your Obsidian Vault. There you can view and edit the files. If you feel like you've improved the notes, feel free to create a pull request and become a Contributor to the project.
 # Author

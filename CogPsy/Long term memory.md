@@ -1,5 +1,5 @@
 22031414:42
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: 
 
 # Long term memory

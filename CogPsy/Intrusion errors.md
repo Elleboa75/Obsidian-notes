@@ -1,5 +1,5 @@
 22031212:50
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Remembering complex events]]
 
 # Intrusion errors

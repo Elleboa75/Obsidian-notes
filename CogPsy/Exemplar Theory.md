@@ -1,5 +1,5 @@
 22031611:34
-Status:  #CogPsy 
+Status:  [[CogPsy]] 
 Tags: [[Semantic memory]]
 
 # Exemplar Theory
